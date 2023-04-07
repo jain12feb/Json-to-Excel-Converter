@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  },
+  "name": "json-and-excel-file",
+  "version": "1.0.0",
+  "main": "excel.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "bin": {
+    "prince_convert": "excel.js"
+  }
+}

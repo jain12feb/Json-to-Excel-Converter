@@ -1,0 +1,22 @@
+[
+  {
+    "Fname": "Prince",
+    "Lname": "Jain",
+    "Designation": "JavaScript Developer"
+  },
+  {
+    "Fname": "Sourav",
+    "Lname": "yadav",
+    "Designation": "Java Developer"
+  },
+  {
+    "Fname": "Anuj",
+    "Lname": "Singh",
+    "Designation": "Functional Tester"
+  },
+  {
+    "Fname": "Jatin",
+    "Lname": "s",
+    "Designation": "SE"
+  }
+]
